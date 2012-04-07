@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title type="text" xml:lang="en">Blog 2</title>
+    <link type="application/atom+xml" href="http://www.example.com/blog2/atom.xml" rel="self"/>
+    <link type="text" href="http://garron.me" rel="alternate"/>
+    <updated>2012-04-06T22:07:25-04:00</updated>
+    <id>http://example.com</id>
+    <author>
+        <name>Guillermo Garron</name>
+    </author>
+    <rights>Copyright (c) 2010-2011 Guillermo Garron</rights>
+    
+    
+    
+    
+    <entry>
+        <title>My first post</title>
+        <link href="http://garron.me/blog2/first-post.html"/>
+        <updated>2012-04-06T21:35:00-04:00</updated>
+        <id>http://garron.me/blog2/first-post.html</id>
+        <summary type="html">&lt;h3&gt;This is the first post on this blog&lt;/h3&gt;
+
+&lt;p&gt;Hello world.&lt;/p&gt;
+</summary>
+    </entry>
+    
+    
+    
+    
+    
+    
+</feed>
